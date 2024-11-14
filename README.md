@@ -84,15 +84,15 @@ https://github.com/user-attachments/assets/2c80f00e-a5c9-48f8-a264-c001ec6adee1
 
 ## Conclusiones:  
 ### Francisco Javier Godinez Lopez:
-
+La implementación de matrices en la práctica y la tarea de posicionar fusibles en puntos específicos de la matriz han permitido profundizar en el aprendizaje sobre el control y uso del robot Epson. Este ejercicio ha demostrado que el uso adecuado de herramientas tecnológicas puede optimizar tareas específicas, facilitando una visión más amplia de cómo la automatización puede aplicarse en diversas aplicaciones industriales y de mantenimiento.
 
 
 ### Pablo Axel Silva Fuentes: 
-
+A través de esta práctica, se ha comprobado la efectividad del robot Epson en la realización de tareas que requieren precisión y organización, como lo es el posicionamiento de fusibles en una matriz. Los nuevos conocimientos adquiridos no solo refuerzan habilidades técnicas, sino que también ofrecen un panorama más amplio sobre el potencial del robot en la ejecución de diversas tareas automatizadas, consolidando así una base sólida para futuros proyectos en el campo de la robótica.
 
 
 ### Eduardo David Salas Ayala: 
-
+En esta práctica se volvió a implementar el uso de matrices, con la diferencia de que la tarea consistió en ubicar fusibles en los puntos designados de una matriz de 3x2. Gracias a esta actividad y a los conceptos vistos previamente, se adquirieron nuevos conocimientos prácticos para realizar objetivos y acciones con el robot Epson. Esto permitió comprender mejor las diversas posibilidades que ofrece esta tecnología para llevar a cabo tareas de distintos tipos, ampliando nuestro panorama sobre el uso del robot.
 
 
 ## Referencias bibliográficas
